@@ -39,7 +39,7 @@ node --version
 npm --version
 ```
 
-::: tip Note
+:::tip Note
 You can get to the Couchbase Server Web UI at any time by visiting [localhost:8091](http://localhost:8091/).
 :::
 
@@ -261,7 +261,7 @@ In our case indexes were added manually, if not Ottoman would have given us this
 ]
 ```
 
-:::details Here you can see the complete content of the server.js file.
+:::info Here you can see the complete content of the server.js file.
 ```javascript
 const ottoman = require('ottoman');
 
